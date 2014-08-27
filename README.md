@@ -1,7 +1,10 @@
 st2-linenumber
 ==============
 
-A Sublime Text 2 plug-in to replace currently selected text w/ current line number
+A Sublime Text 2 plug-in to replace currently selected text w/ current line number.
+This can be useful in certain cases when you want to print something to the screen
+and the interpreter doesn't have the concept of line number (e.g. executing `bash`
+without extra parameters).
 
 Install
 =======
