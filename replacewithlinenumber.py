@@ -1,3 +1,10 @@
+#!/usr/bin/env python2.7
+__author__ = "Timothy McFadden"
+__date__ = "08/27/2014"
+__copyright__ = "Timothy McFadden, 2014"
+__license__ = "GPLv2"
+__version__ = "0.01"
+
 '''Sublime Text 2 plugin for inserting the line numbers of a text document or a selection within it '''
 import sublime
 import sublime_plugin
